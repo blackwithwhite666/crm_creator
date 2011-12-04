@@ -10,4 +10,4 @@ VIRT_PRIMITIVE_NAME = "p_virt_%s"
 COLOCATION_ID = "c_%s"
 ORDER_ID = "o_%s"
 
-LIBVIRT_CONFIG_PATH = '/etc/libvirt/qemu/%s.xml'
+LIBVIRT_CONFIG_PATH = '/etc/vm/%s.xml'
