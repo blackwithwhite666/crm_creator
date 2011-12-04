@@ -1,0 +1,7 @@
+crm_creator is a python command-line tool that simplify ``Pacemaker``
+HA cluster configuration. It automatically check and create needed
+resources for serving virtual machine with libvirt and DRBD. 
+
+Usage:
+
+  ./config-vm.py -n <node-name> -d <host-name>
